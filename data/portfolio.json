@@ -1,1 +1,82 @@
-{"name":"Rhex Niebres","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Rhex Niebres ","headerTaglineThree":"Full Stack Web Developer","headerTaglineFour":" based in the Philippines","showCursor":false,"showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/RhexNiebres"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/rhex-niebres-75a492326/"},{"id":"5","title":"Email","link":"mailto:rhexniebres@gmail.com"}],"projects":[{"id":"1","title":"Facetome","description":"Social Media Web Application","imageSrc":"https://res.cloudinary.com/ddbd0crv8/image/upload/f_auto,q_auto/v1749800481/facetome_tklukw","url":"https://facetome.netlify.app"},{"id":"2","title":"Messagely","description":"Messaging Web Application","imageSrc":"https://res.cloudinary.com/ddbd0crv8/image/upload/f_auto,q_auto,w_1000,h_900/v1749801559/m2_dtfgva.jpg","url":"https://messagelyy.netlify.app/"}],"services":[{"id":"1","title":"Web Development","description":"build full-stack web applications using modern technologies like React, Express, and PostgreSQL. Whether it’s a portfolio, a business site, or a custom tool, I focus on clean code, responsive and scalable design."},{"id":"2","title":"Frontend Development","description":"create fast, mobile-friendly user interfaces using React and Tailwind CSS. From static pages to dynamic experiences, I ensure your site looks great and performs smoothly on all devices."},{"id":"3","title":"Backend Development","description":"build the behind-the-scenes parts of your website like servers, databases, and APIs—using Node.js, Express, and PostgreSQL. This makes sure your site runs smoothly and handles data the right way."},{"id":"4","title":"User Authentication & Security","description":"implement secure user authentication systems using modern methods like JWT or sessions. I make sure your users’ data stays safe and access is properly managed."}],"aboutpara":"Hi! I'm an aspiring junior web developer with a strong desire to grow, learn, and improve every day. I'm passionate about building meaningful projects that solve real problems and make a positive impact.\n\nRight now, I'm focused on gaining practical experience, improving my skills, and expanding my knowledge through real-world development. I'm eager to join a team where I can contribute, learn from others, and take on new challenges that help me become a better developer.\n\nI'm excited about the journey ahead and motivated to keep pushing forward as I build a career in web development.","resume":{"tagline":"👋  I'm a Full Stack Web Developer.","description":"I build frontend and backend web applications using React, Tailwind CSS, PostgreSQL, Express, Node.js, and Prisma.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"}],"education":{"universityName":"The Odin Project","universityDate":"Nov 2024-current","universityPara":"Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices."},"languages":["HTML","CSS","Javascript"],"frameworks":["Express"],"others":["Tailwind CSS","PostgreSQL","Prisma","Vite","Git & GitHub","React","Node.js"]}}
+{
+  "name": "Rhex Niebres",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Rhex Niebres ",
+  "headerTaglineThree": "Full Stack Web Developer",
+  "headerTaglineFour": " based in the Philippines",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/RhexNiebres" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/rhex-niebres-75a492326/"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:rhexniebres@gmail.com" },
+    { "id": "6", "title": "09308485917" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Facetome",
+      "description": "Social Media Web Application",
+      "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1749869603/facetome2_g58r3n.jpg",
+      "url": "https://facetome.netlify.app"
+    },
+    {
+      "id": "2",
+      "title": "Messagely",
+      "description": "Messaging Web Application",
+      "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/f_auto,q_auto,c_fit,w_300,h_300/v1749876493/m_final_pgmfp7.jpg",
+      "url": "https://messagelyy.netlify.app/"
+    }
+  ],
+  "services": [
+    {
+      "id": "2",
+      "title": "Frontend Development",
+      "description": "create fast, mobile-friendly user interfaces using React and Tailwind CSS. From static pages to dynamic experiences, I ensure your site looks great and performs smoothly on all devices."
+    },
+    {
+      "id": "3",
+      "title": "Backend Development",
+      "description": "build the behind-the-scenes parts of your website like servers, databases, and APIs—using Node.js, Express, and PostgreSQL. This makes sure your site runs smoothly and handles data the right way."
+    }
+  ],
+  "aboutpara": "Hi! I'm an aspiring junior web developer with a strong desire to grow, learn, and improve every day. I'm passionate about building meaningful projects that solve real problems and make a positive impact.\n\nRight now, I'm focused on gaining practical experience, improving my skills, and expanding my knowledge through real-world development. I'm eager to join a team where I can contribute, learn from others, and take on new challenges that help me become a better developer.\n\nI'm excited about the journey ahead and motivated to keep pushing forward as I build a career in web development.",
+  "resume": {
+    "tagline": "👋  I'm a Full Stack Web Developer.",
+    "description": "I build frontend and backend web applications using React, Tailwind CSS, PostgreSQL, Express, Node.js, and Prisma.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      }
+    ],
+    "education": {
+      "universityName": "The Odin Project",
+      "universityDate": "Nov 2024-current",
+      "universityPara": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices."
+    },
+    "languages": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Express",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "Prisma",
+      "Vite",
+      "React",
+      "Git & GitHub"
+    ],
+    "frameworks": [],
+    "others": []
+  }
+}

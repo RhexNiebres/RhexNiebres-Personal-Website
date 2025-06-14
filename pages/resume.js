@@ -50,10 +50,10 @@ const Resume = () => {
               <h2 className="w-4/5 text-xl mt-5 opacity-50">
                 {resume.description}
               </h2>
-              <div className="mt-2">
+              <div className="mt-4">
                 <Socials />
               </div>
-              <div className="mt-5">
+              {/* <div className="mt-5">
                 <h1 className="text-2xl font-bold">Experience</h1>
 
                 {resume.experiences.map(
@@ -67,7 +67,7 @@ const Resume = () => {
                     ></ProjectResume>
                   )
                 )}
-              </div>
+              </div> */}
               <div className="mt-5">
                 <h1 className="text-2xl font-bold">Education</h1>
                 <div className="mt-2">
@@ -85,7 +85,7 @@ const Resume = () => {
                 <div className="flex mob:flex-col desktop:flex-row justify-between">
                   {resume.languages && (
                     <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Languages</h2>
+                      {/* <h2 className="text-lg">Languages</h2> */}
                       <ul className="list-disc">
                         {resume.languages.map((language, index) => (
                           <li key={index} className="ml-5 py-2">
@@ -96,7 +96,7 @@ const Resume = () => {
                     </div>
                   )}
 
-                  {resume.frameworks && (
+                  {/* {resume.frameworks && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg">Frameworks</h2>
                       <ul className="list-disc">
@@ -120,7 +120,7 @@ const Resume = () => {
                         ))}
                       </ul>
                     </div>
-                  )}
+                  )} */}
                 </div>
               </div>
             </div>

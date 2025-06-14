@@ -11,6 +11,7 @@ const Socials = ({ className }) => {
           {social.title}
         </Button>
       ))}
+      
     </div>
   );
 };
